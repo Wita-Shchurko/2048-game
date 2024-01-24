@@ -1,4 +1,6 @@
-import 'regenerator-runtime/runtime';
+'use strict';
+
+// import 'regenerator-runtime/runtime';
 
 const score = document.querySelector('.game_score');
 let scoreValue = 0;

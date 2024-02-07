@@ -1,6 +1,6 @@
 # 2048 game
 
-[PLAY 🎮](https://Wita-Shchurko.github.io/2048-game/)
+## [PLAY 🎮](https://Wita-Shchurko.github.io/2048-game/)
 
 This is my implementation of the popular game "2048" using HTML, CSS, and JavaScript. Here's an overview of how the game works:
 
